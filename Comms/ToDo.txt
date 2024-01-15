@@ -1,0 +1,16 @@
+1. See what happens with directed messages in previous project. For example, [0]start      DONE
+2. Reread all the servers       DONE
+3. Create separate files in visual studio   DONE
+4. Search about python client   IN PROGRESS
+5. Eliminate the third server in the .bat file  DONE
+6. Start QR Code Script DONE
+7. Presentation IN PROGRESS
+8. Update robotexchange IN PROGRESS
+9. Start Main.py message communication sketch DONE
+10. Start Main.py final Script IN PROGRESS
+11. Discuss with rest of the group Main.py and change what is wrong
+12. Make coding and decoding of the PLC IN PROGRESS
+
+
+Sury show me communication with PLC
+Why do you want to implement it in the Main
